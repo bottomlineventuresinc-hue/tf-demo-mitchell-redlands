@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical and panel upgrades across Redlands and the Inland Empire. Clay looks at the house first and puts the price in writing.';
+            'Residential electrical and panel upgrades in Redlands. Clay looks at the house first and puts the price in writing.';
         }
       }
     },
