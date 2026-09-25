@@ -1,0 +1,21 @@
+PHOTO SOURCES · hs-053-mitchell Clay Mitchell Electrical (Wave 11 2026-09-25 PT)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit. No face is used or captioned as the owner.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave11/elec-panel-back.jpg : electrician at an open breaker panel, seen from behind, no face (StockSnap CC0 3A5FXM89OG)
+services-trade.jpg <- wave11/elec-breakers-probe.jpg : breaker panel tested with a probe (StockSnap CC0 81EG7NOR4G)
+people-crew.jpg <- wave11/elec-tool-wall.jpg : wall of hand tools (prior verified library wave5/elec-wire-d.jpg)
+people-marek.jpg <- wave11/elec-terminals.jpg : terminal blocks and wiring (rawpixel CC0 5904900)
+people-tom.jpg <- wave11/elec-wire-colors.jpg : colored wire ends (rawpixel CC0 5924439)
+coverage-house.jpg <- wave11/house-dusk.jpg : two-story suburban home at dusk (StockSnap CC0 LJ515CPAKI)
+elec-wiring-messy.jpg <- wave11/elec-wiring-messy.jpg : tangled old wiring in a worn box (StockSnap CC0 63670C8E97)
+elec-breakers-row.jpg <- wave11/elec-breakers-row.jpg : row of breakers with wiring (StockSnap CC0 6Y6VEZPDC1)
+elec-wires-wallbox.jpg <- wave11/elec-wires-wallbox.jpg : wires pulled through a wall opening (StockSnap CC0 NTBTAJYIOK)
+elec-ladder-panel.jpg <- wave11/elec-ladder-panel.jpg : ladder beside an open electrical panel (rawpixel CC0 5943800)
+elec-meter-cabinet.jpg <- wave11/elec-meter-cabinet.jpg : meter and breaker cabinet (Flickr PDM 49514987902)
+elec-breakers-probe.jpg <- wave11/elec-breakers-probe.jpg : breaker panel tested with a probe (StockSnap CC0 81EG7NOR4G)
+
+Rejected from prior library (not used): wave7 wh-* files (plasterer / painter / window cleaner mislabeled as water heaters),
+wave2/wave5 yellow-hat electrician portraits (stock face), crew photos with faces, wave2 elec-breaker-hand (sanding, not electrical).
+Note: License is under the owner's name; wordmark Clay Mitchell Electrical is descriptive per packet (not a registered DBA). Distinct from hs-049 R/C Electric (Highland) photos. Hero shows back of electrician, no face.
